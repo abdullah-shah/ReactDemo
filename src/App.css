@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+.internet-error {
+  height: 60px;
+  background: #ff8100;
+  margin-top: 0;
+}
+
+.internet-error p {
+  font-size: 25px;
+  line-height: 60px;
+  color: #fff;
+  margin: 0;
+  text-align: center;
+  font-weight: 500;
+}
